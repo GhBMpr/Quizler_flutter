@@ -65,13 +65,13 @@ assets/
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/quizzler.git
+   git clone https://github.com/GhBMpr/Quizler_flutter.git
 ````
 
 2. Navigate to the project folder:
 
    ```bash
-   cd quizzler
+   cd Quizler_flutter
    ```
 
 3. Get dependencies:
